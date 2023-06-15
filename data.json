@@ -1,0 +1,130 @@
+[
+  {
+    "category": "Diaper Duty Delights",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the main purpose of a diaper?"
+      },
+      {
+        "id": 2,
+        "question": "Name three alternative diaper-changing tools besides wipes."
+      },
+      {
+        "id": 3,
+        "question": "True or false: Cloth diapers are considered an eco-friendly diapering option."
+      },
+      {
+        "id": 4,
+        "question": "What is the average number of diaper changes a newborn baby requires per day?"
+      }
+    ]
+  },
+  {
+    "category": "Adorable Animal Kingdom",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the baby of a cat called?"
+      },
+      {
+        "id": 2,
+        "question": "True or false: A baby kangaroo is called a joey."
+      },
+      {
+        "id": 3,
+        "question": "Name three animals that are known to give birth to live young instead of laying eggs."
+      },
+      {
+        "id": 4,
+        "question": "Which animal is often associated with the phrase 'slow and steady wins the race'?"
+      }
+    ]
+  },
+  {
+    "category": "Magical Nursery Tales",
+    "questions": [
+      {
+        "id": 1,
+        "question": "In the nursery rhyme 'Hey Diddle Diddle,' what did the cow jump over?"
+      },
+      {
+        "id": 2,
+        "question": "Who is the famous author of the children's book 'Goodnight Moon'?"
+      },
+      {
+        "id": 3,
+        "question": "Which character falls asleep after eating a bowl of porridge in the fairy tale 'Goldilocks and the Three Bears'?"
+      },
+      {
+        "id": 4,
+        "question": "In the story of 'The Ugly Duckling,' what does the duckling eventually transform into?"
+      }
+    ]
+  },
+  {
+    "category": "Adorable Animal Kingdom",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the baby of a cat called?"
+      },
+      {
+        "id": 2,
+        "question": "True or false: A baby kangaroo is called a joey."
+      },
+      {
+        "id": 3,
+        "question": "Name three animals that are known to give birth to live young instead of laying eggs."
+      },
+      {
+        "id": 4,
+        "question": "Which animal is often associated with the phrase 'slow and steady wins the race'?"
+      }
+    
+    ]
+  },
+  {
+    "category": "Yummy Baby Food Adventures",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Name three common first foods introduced to babies during the weaning process."
+      },
+      {
+        "id": 2,
+        "question": "True or false: Avocado is a popular ingredient in homemade baby food due to its nutritional benefits."
+      },
+      {
+        "id": 3,
+        "question": "What is the process of transitioning a baby from a liquid diet to solid foods called?"
+      },
+      {
+        "id": 4,
+        "question": "What is the recommended age for introducing solid foods to infants?"
+      }
+    ]
+  },
+  {
+    "category": "Giggle-Worthy Milestones",
+    "questions": [
+      {
+        "id": 1,
+        "question": "True or false: The average age for a baby's first tooth to emerge is around 6 months."
+      },
+      {
+        "id": 2,
+        "question": "What is the term for a baby's first deliberate movement, often seen as a response to stimuli?"
+      },
+      {
+        "id": 3,
+        "question": "Name three typical milestones that babies achieve during their first year."
+      },
+      {
+        "id": 4,
+        "question": "What is the common milestone that involves a baby rolling over for the first time?"
+      }
+
+    ]
+  }
+]

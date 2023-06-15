@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap");
+:root {
+  --primClr: blue;
+  --accLight: white;
+  --accDk:black;
+  --glowClr:rgba(0, 255, 255, 0.755);
+  --myFont: "Poppins", sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: var(--myFont)
+}
+header,
+footer {
+  background-color: var(--primClr);
+  color: var(--accLight);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container{
+    display: grid;
+    border: 2px solid var(--accDk);
+    background-color: var(--accLight);
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+}
+
+.card{
+    width: 180px;
+    height: 100px;
+    background-color: var(--primClr);
+    border: 1px solid black;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--accLight);
+    text-align: center;
+}
+
+.card:hover{
+    box-shadow: 0px 0px 20px 3px  var(--glowClr);
+    cursor: pointer;
+    scale: 0.95;
+}
+
+.qDiv{
+    position: absolute;
+    background-color: var(--primClr);
+    color: var(--accLight);
+    width: 1190px;
+    height: 600px;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.qDiv button{
+    padding: 10px;
+    font-size: 1.5rem;
+    width: 70%;
+    font-family: var(--myFont);
+    cursor: pointer;
+    position: absolute;
+    bottom: 0;
+    margin: 30px;
+}
+
+.qDiv p{
+    padding: 0;
+    margin: 0;
+}
+
+#qText{
+  max-width: 1000px;
+  text-align: center;
+}
